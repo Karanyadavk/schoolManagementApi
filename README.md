@@ -31,8 +31,8 @@ This project implements a simple API for managing school data using Node.js, Exp
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   cd YOUR_REPOSITORY
+   git clone https://github.com/Karanyadavk/schoolManagementApi
+   cd schoolManagementApi
 
 2. npm install
 
